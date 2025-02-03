@@ -6,11 +6,11 @@ Model performanslarını MSE (Mean Squared Error) ve R² skoru ile değerlendird
 
 📌 Proje İçeriği
 * ✔ Veri Ön İşleme: Eksik verilerin kontrolü, ölçeklendirme (StandardScaler)
-+ ✔ Modelleme:
-++Linear Regression
-++Ridge Regression (L2 Penalty)
-++Lasso Regression (L1 Penalty)
-++ElasticNet Regression (L1 + L2 Penalty)
+> ✔ Modelleme:
+>>Linear Regression
+>>Ridge Regression (L2 Penalty)
+>>Lasso Regression (L1 Penalty)
+>>ElasticNet Regression (L1 + L2 Penalty)
 
 ✔ Model Performans Karşılaştırmaları: MSE ve R² skorlarıyla analiz
 ✔ Görselleştirme: Model hatalarının ve performans farklarının grafiklerle gösterimi
